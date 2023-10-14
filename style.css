@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(198,225,241);
+}
+
+/*Selector de tipo (elemento=etiqueta)*/
+
+img {
+    border-radius: 30px;
+}
+
+h1 {
+    color: rgb(0, 96, 96);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: justify;
+}
+
+
+/*Para el selector de clase se le agrega un atributo que se llama class, tiene una clase que lo hace unico y nos permite identificar esos elementos que queremos agrupas*/
+.tomparr {
+    background-color: coral;
+}
+/*Selector de ID*/
+#comportamiento {
+    text-align: center;
+}
